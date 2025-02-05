@@ -1,0 +1,1 @@
+This cheatsheet is meant for JavaScript/Typescript.
